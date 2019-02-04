@@ -1,5 +1,6 @@
 # Complex-Json-Recyclerview-Example
 
+```json
 {
   "is_error": false,
   "data": {
@@ -58,3 +59,4 @@
   "message": "",
   "page_count": ""
 }
+```
